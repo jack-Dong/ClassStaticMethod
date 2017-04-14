@@ -25,6 +25,8 @@ c = Other()
 c.printNumInstances()
 Other.printNumInstances()
 
+
+#result as fallow:
 # Extra:stuff...
 # (' Spam NUmber of instances:', 2)
 # Extra:stuff...
@@ -32,6 +34,8 @@ Other.printNumInstances()
 # (' Spam NUmber of instances:', 2)
 # (' Spam NUmber of instances:', 3)
 # (' Spam NUmber of instances:', 3)
+
+
 
 
 
